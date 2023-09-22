@@ -1,0 +1,14 @@
+C:\Users\Computer\source\repos\finalTestNinja\bin\Debug\net7.0\finalTestNinja.exe
+C:\Users\Computer\source\repos\finalTestNinja\bin\Debug\net7.0\finalTestNinja.deps.json
+C:\Users\Computer\source\repos\finalTestNinja\bin\Debug\net7.0\finalTestNinja.runtimeconfig.json
+C:\Users\Computer\source\repos\finalTestNinja\bin\Debug\net7.0\finalTestNinja.dll
+C:\Users\Computer\source\repos\finalTestNinja\bin\Debug\net7.0\finalTestNinja.pdb
+C:\Users\Computer\source\repos\finalTestNinja\obj\Debug\net7.0\finalTestNinja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\finalTestNinja\obj\Debug\net7.0\finalTestNinja.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\finalTestNinja\obj\Debug\net7.0\finalTestNinja.AssemblyInfo.cs
+C:\Users\Computer\source\repos\finalTestNinja\obj\Debug\net7.0\finalTestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\finalTestNinja\obj\Debug\net7.0\finalTestNinja.dll
+C:\Users\Computer\source\repos\finalTestNinja\obj\Debug\net7.0\refint\finalTestNinja.dll
+C:\Users\Computer\source\repos\finalTestNinja\obj\Debug\net7.0\finalTestNinja.pdb
+C:\Users\Computer\source\repos\finalTestNinja\obj\Debug\net7.0\finalTestNinja.genruntimeconfig.cache
+C:\Users\Computer\source\repos\finalTestNinja\obj\Debug\net7.0\ref\finalTestNinja.dll
